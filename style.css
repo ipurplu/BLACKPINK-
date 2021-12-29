@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+        background: linear-gradient( #000000 0%, #e336b2 100%);
+  color: white
+}
+img{
+    width: 175px;
+    margin-bottom: px;
+    border-radius: 50%; 
+}
+.line{
+    height: 6px;
+        background-color: black;
+    width: 70px;
+        margin: 8px auto;
+} 
